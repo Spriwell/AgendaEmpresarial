@@ -1,0 +1,7 @@
+{
+  "name": "javareact",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
